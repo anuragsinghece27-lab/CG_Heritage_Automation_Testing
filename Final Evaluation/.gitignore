@@ -1,0 +1,7 @@
+screenshots/*.png
+reports/execution_report.html
+reports/login_results.csv
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
